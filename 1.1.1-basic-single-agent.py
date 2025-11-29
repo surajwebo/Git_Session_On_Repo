@@ -74,5 +74,7 @@ if __name__ == "__main__":
 # 4. Can you help me figure out what options might suit my skills and interests?                    # Related to career development - multi-turn expected
 
 # 5.
-# 6.
+
 # 7.
+
+# 9.
